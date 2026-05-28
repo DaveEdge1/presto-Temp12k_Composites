@@ -10,7 +10,7 @@ authors:
 url: https://github.com/DaveEdge1/presto-Temp12k_Composites
 references:
 - type: article
-  title: 'Holocene global mean surface temperature, a multi-method reconstruction approach'
+  title: Holocene global mean surface temperature, a multi-method reconstruction approach
   authors:
   - family-names: Kaufman
     given-names: Darrell
@@ -28,7 +28,7 @@ references:
   volume: 7
   notes: Method reference (SCC, DCC, GAM, CPS, PaiCo) reconstructed by this container.
 - type: article
-  title: 'A global database of Holocene paleotemperature records'
+  title: A global database of Holocene paleotemperature records
   authors:
   - family-names: Kaufman
     given-names: Darrell
